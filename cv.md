@@ -25,9 +25,9 @@
 Self-motivated developer with 2 years commercial experience in the gaming industry. Seeking to use proven skills in JavaScript and project management via JIRA to meet business needs.
 
 ## Experience
-* HTML5 Developer
-  Absolutist Ltd.
-  December 2018 – January 2020.
+* HTML5 Developer.
+   Absolutist Ltd.
+   December 2018 – January 2020.
 
   Key Achievement:
   - Ported more than 40 flash games to JavaScript;

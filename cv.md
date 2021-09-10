@@ -33,7 +33,7 @@ Self-motivated developer with 2 years commercial experience in the gaming indust
   - Ported more than 40 flash games to JavaScript;
   - Introducted adaptation of games for mobile devices;
   - Created and maintained documentation;
-  - mentoring
+  - Mentoring
 
   Some finished projects:
   - [Blocks](https://wellgames.com/ru/free_online/blocks/)

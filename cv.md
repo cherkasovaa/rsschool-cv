@@ -17,7 +17,7 @@
 * Git
 * Figma, Photoshop
 * Editors: VSCode, Sublime
-## Code example:
+## Code examples:
 *KATA from CODEWARS:* **An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.**
 ```javascript
 function isIsogram(str){
@@ -38,14 +38,14 @@ function maskify(cc) {
 ```
 ## Courses and Education:
 * GeekBrain
-- HTML5 & CSS3. Introduction to Frontend Website Development
-(https://gb.ru/certificates/654907.en#)
+  HTML5 & CSS3. Introduction to Frontend Website Development
+[Certificate](https://gb.ru/certificates/654907.en#)
 * Front-end Basic
-- HTML5 & CSS3
-(https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
+  HTML5 & CSS3
+[Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
 * Front-end Pro
-- JavaScript
-(https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)
+  Basic knowledge of JavaScript (ES5, ES6+)
+[Certificate](https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)
 ## Languages:
 * Russian - native
 * Ukrainian - advance

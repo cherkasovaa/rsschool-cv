@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alina Cherkasova</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <main class="main">
+      <div class="container">
+        <h1 class="title">Alina Cherkasova</h1>
+        <section class="contacts">
+          <h2 class="contacts__title">Contact information:</h2>
+          <ul class="contacts-list">
+            <li class="contacts-list__item">Location: Gdansk, Poland</li>
+            <li class="contacts-list__item">Phone:+48 883 192 426</li>
+            <li class="contacts-list__item">E-mail: alina.ch1202@gmail.com</li>
+            <li class="contacts-list__item">Telegram: @alina_gd_pl</li>
+            <li class="contacts-list__item">
+              <a href="https://www.linkedin.com/in/alinacherkasova/" class="link">LinkedIn</a>
+            </li>
+            <li class="contacts-list__item">
+              <a href="https://github.com/cherkasovaa" class="link">Github</a>
+            </li>
+          </ul>
+        </section>
+        <section class="skills">
+          <h2 class="skills__title">Skills and Proficiency:</h2>
+          <ul class="skills-list">
+            <li class="skills-list__item">HTML5</li>
+            <li class="skills-list__item">CSS3 (SCSS, Less)</li>
+            <li class="skills-list__item">CSS Framework: Bootstrap</li>
+            <li class="skills-list__item">BEM</li>
+            <li class="skills-list__item">JavaScript (ES5+)</li>
+            <li class="skills-list__item">JQuery</li>
+            <li class="skills-list__item">ActionScript3</li>
+            <li class="skills-list__item">Gulp</li>
+            <li class="skills-list__item">Git</li>
+            <li class="skills-list__item">Figma, Photoshop</li>
+            <li class="skills-list__item">Editors: VSCode, Sublime</li>
+          </ul>
+        </section>
+        <section class="summary">
+          <h2 class="summary__title">Summary</h2>
+          <p class="summary__text">
+            Self-motivated developer with 2 years commercial experience in the gaming industry.
+            Seeking to use proven skills in JavaScript and project management via JIRA to meet
+            business needs.
+          </p>
+        </section>
+        <section class="experience">
+          <h2 class="experience__title">Experience</h2>
+          <ul class="experience-list">
+            <li class="experience-list__item">
+              <p class="experience-list__position">HTML5 Developer</p>
+              <p class="experience-list__company">Absolutist Ltd.</p>
+              <p class="experience-list__duration">December 2018 – January 2020.</p>
+              <ul class="achievements">
+                <li class="achievements__item">
+                  <h3 class="achievements__title">Key Achievement:</h3>
+                </li>
+                <li class="achievements__item">Ported more than 40 flash games to JavaScript;</li>
+                <li class="achievements__item">
+                  Introducted adaptation of games for mobile devices;
+                </li>
+                <li class="achievements__item">Created and maintained documentation;</li>
+                <li class="achievements__item">Mentoring</li>
+              </ul>
+              <ul class="projects">
+                <li class="projects__item">
+                  <h3 class="projects__title">Some finished projects:</h3>
+                </li>
+                <li class="projects__item">Blocks</li>
+                <li class="projects__item">Into Space</li>
+                <li class="projects__item">Fly Squirrel Fly 2</li>
+                <li class="projects__item">Summon the hero</li>
+                <li class="projects__item">Sugar tales</li>
+                <li class="projects__item">Cover Orange: Journey Pirates</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section class="code-example">
+          <h2 class="code-example__title">Code examples:</h2>
+          <div class="code-box">
+            <p class="code-box__description">
+              KATA from CODEWARS: An isogram is a word that has no repeating letters, consecutive or
+              non-consecutive. Implement a function that determines whether a string that contains
+              only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
+            </p>
+            <pre class="code-box__wrapper">
+          <code class="code-box__code-example">
+            function isIsogram(str){
+              let setSize = new Set(str.toLowerCase()).size;
+              return setSize === str.length ? true : false
+            }
+          </code>
+          </pre>
+          </div>
+          <div class="code-box">
+            <p class="code-box__description">
+              KATA from CODEWARS: Usually when you buy something, you're asked whether your credit
+              card number, phone number or answer to your most secret question is still correct.
+              However, since someone could look over your shoulder, you don't want that shown on
+              your screen. Instead, we mask it. Your task is to write a function maskify, which
+              changes all but the last four characters into '#'.
+            </p>
+            <pre class="code-box__wrapper">
+          <code class="code-box__code-example">
+            function maskify(cc) {
+              let result = cc.split('')
+                              .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
+                              .join('');
+
+              return result;
+            }
+          </code>
+          </pre>
+          </div>
+        </section>
+        <section class="courses">
+          <h2 class="courses__title">Courses and Education:</h2>
+          <ul class="courses-list">
+            <li class="courses-item">
+              <h3 class="courses-item__title">2019 - HTML5 & CSS3:</h3>
+              <p class="courses-item__description">
+                Introduction to Frontend Website Development. GeekBrain
+              </p>
+              <a class="courses-item__certificate-link" href="https://gb.ru/certificates/654907.en#"
+                >Certificate</a
+              >
+            </li>
+            <li class="courses-item">
+              <h3 class="courses-item__title">2018 - Front-end Basic:</h3>
+              <p class="courses-item__description">HTML5 & CSS3</p>
+              <a
+                class="courses-item__certificate-link"
+                href="https://admin.itschool-hillel.org/certificate/HISD46309649-en.png"
+                >Certificate</a
+              >
+            </li>
+            <li class="courses-item">
+              <h3 class="courses-item__title">2018 - Front-end Pro:</h3>
+              <p class="courses-item__description">Basic knowledge of JavaScript (ES5, ES6+)</p>
+              <a
+                class="courses-item__certificate-link"
+                href="https://admin.ithillel.ua/certificate/HISD59043827-en.pdf"
+                >Certificate</a
+              >
+            </li>
+          </ul>
+        </section>
+        <section class="languages">
+          <h2 class="languages__title">Languages:</h2>
+          <ul class="languages-list">
+            <li class="languages-item">Russian - native</li>
+            <li class="languages-item">Ukrainian - advance</li>
+            <li class="languages-item">English - B1</li>
+            <li class="languages-item">Polish - A1</li>
+          </ul>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

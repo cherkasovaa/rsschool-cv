@@ -36,3 +36,18 @@ function maskify(cc) {
   return result;
 }
 ```
+## Courses and Education:
+* GeekBrain
+- HTML5 & CSS3. Introduction to Frontend Website Development
+(https://gb.ru/certificates/654907.en#)
+* Front-end Basic
+- HTML5 & CSS3
+(https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
+* Front-end Pro
+- JavaScript
+(https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)
+## Languages:
+* Russian - native
+* Ukrainian - advance
+* English - B1
+* Polish - A1

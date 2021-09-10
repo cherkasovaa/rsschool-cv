@@ -1,4 +1,4 @@
-#Alina Cherkasova
+# Alina Cherkasova
 ## Contact information:
 * *phone:* +48 883 192 426
 * *e-mail:* alina.ch1202@gmail.com

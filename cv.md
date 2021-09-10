@@ -26,8 +26,8 @@ Self-motivated developer with 2 years commercial experience in the gaming indust
 
 ## Experience
 * HTML5 Developer
-  Absolutist Ltd.
-  December 2018 – January 2020.
+    Absolutist Ltd.
+    December 2018 – January 2020.
 
   Key Achievement:
   - Ported more than 40 flash games to JavaScript;

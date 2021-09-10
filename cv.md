@@ -1,6 +1,7 @@
 # Alina Cherkasova
 
 ## Contact information:
+* **Location:** Gdansk, Poland
 * **Phone:** +48 883 192 426
 * **E-mail:** alina.ch1202@gmail.com
 * **Telegram:** @alina_gd_pl
@@ -19,6 +20,7 @@
 * Git
 * Figma, Photoshop
 * Editors: VSCode, Sublime
+## Summary
 
 ## Experience
 * HTML5 Developer
@@ -26,11 +28,10 @@
   December 2018 – January 2020.
 
   Responsibilities:
-  - porting projects from ActionScript3 to JavaScript;
-  - fixing bugs after porting, as well as making changes and finalization finished projects;
-  - adaptation of games for mobile devices;
-  - creation and maintenance of documentation;
-  - mentoring;
+  - Ported more than 40 flash games to JavaScript;
+  - Introducted adaptation of games for mobile devices;
+  - Created and maintained documentation;
+  - mentoring
 
   Some finished projects:
   - [Blocks](https://wellgames.com/ru/free_online/blocks/)
@@ -61,13 +62,13 @@ function maskify(cc) {
 ```
 
 ## Courses and Education:
-* HTML5 & CSS3:
+* 2019 - HTML5 & CSS3:
   Introduction to Frontend Website Development. GeekBrain
 [Certificate](https://gb.ru/certificates/654907.en#)
-* Front-end Basic:
+* 2018 - Front-end Basic:
   HTML5 & CSS3
 [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
-* Front-end Pro:
+* 2018 - Front-end Pro:
   Basic knowledge of JavaScript (ES5, ES6+)
 [Certificate](https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)
 

@@ -20,14 +20,16 @@
 * Git
 * Figma, Photoshop
 * Editors: VSCode, Sublime
+
 ## Summary
+Self-motivated developer with 2 years commercial experience in the gaming industry. Seeking to use proven skills in JavaScript and project management via JIRA to meet business needs.
 
 ## Experience
 * HTML5 Developer
   Absolutist Ltd.
   December 2018 – January 2020.
 
-  Responsibilities:
+  Key Achievement:
   - Ported more than 40 flash games to JavaScript;
   - Introducted adaptation of games for mobile devices;
   - Created and maintained documentation;

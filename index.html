@@ -25,14 +25,23 @@
           <h2 class="contacts__title title">Contact information:</h2>
           <ul class="contacts-list list">
             <li class="list__item">Location: Gdansk, Poland</li>
-            <li class="list__item">Phone:+48 883 192 426</li>
-            <li class="list__item">E-mail: alina.ch1202@gmail.com</li>
-            <li class="list__item">Telegram: @alina_gd_pl</li>
             <li class="list__item">
-              <a href="https://www.linkedin.com/in/alinacherkasova/" class="link">LinkedIn</a>
+              Phone: <a class="link" href="tel:+48883192426">+48 883 192 426</a>
             </li>
             <li class="list__item">
-              <a href="https://github.com/cherkasovaa" class="link">Github</a>
+              E-mail:
+              <a class="link" href="mailto:alina.ch1202@gmail.com">alina.ch1202@gmail.com</a>
+            </li>
+            <li class="list__item">
+              <a href="https://telegram.me/alina_gd_pl" class="link" target="_blank">Telegram</a>
+            </li>
+            <li class="list__item">
+              <a href="https://www.linkedin.com/in/alinacherkasova/" class="link" target="_blank"
+                >LinkedIn</a
+              >
+            </li>
+            <li class="list__item">
+              <a href="https://github.com/cherkasovaa" class="link" target="_blank">Github</a>
             </li>
           </ul>
         </section>
@@ -82,12 +91,54 @@
                 <li class="projects__item">
                   <h3 class="projects__title">Some finished projects:</h3>
                 </li>
-                <li class="projects__item">Blocks</li>
-                <li class="projects__item">Into Space</li>
-                <li class="projects__item">Fly Squirrel Fly 2</li>
-                <li class="projects__item">Summon the hero</li>
-                <li class="projects__item">Sugar tales</li>
-                <li class="projects__item">Cover Orange: Journey Pirates</li>
+                <li class="projects__item">
+                  <a
+                    class="link"
+                    href="https://wellgames.com/ru/free_online/blocks/"
+                    target="_blank"
+                    >Blocks</a
+                  >
+                </li>
+                <li class="projects__item">
+                  <a
+                    class="link"
+                    href="https://wellgames.com/ru/free_online/into-space/"
+                    target="_blank"
+                    >Into Space</a
+                  >
+                </li>
+                <li class="projects__item">
+                  <a
+                    class="link"
+                    href="https://wellgames.com/ru/free_online/fly-squirrel-fly-2/"
+                    target="_blank"
+                    >Fly Squirrel Fly 2</a
+                  >
+                </li>
+                <li class="projects__item">
+                  <a
+                    class="link"
+                    href="https://wellgames.com/ru/free_online/summon-the-hero/"
+                    target="_blank"
+                    >Summon the hero</a
+                  >
+                </li>
+                <li class="projects__item">
+                  <a
+                    class="link"
+                    href="https://wellgames.com/ru/free_online/sugar-tales/"
+                    target="_blank"
+                    >Sugar tales</a
+                  >
+                </li>
+                <li class="projects__item">
+                  <a
+                    class="link"
+                    href="https://wellgames.com/ru/free_online/cover-orange-journey-pirates/"
+                    target="_blank"
+                    >Cover Orange: Journey Pirates</a
+                  >
+                </li>
               </ul>
             </li>
           </ul>
@@ -96,9 +147,10 @@
           <h2 class="code-example__title title">Code examples:</h2>
           <div class="code-box">
             <p class="code-box__description">
-              KATA from CODEWARS: An isogram is a word that has no repeating letters, consecutive or
-              non-consecutive. Implement a function that determines whether a string that contains
-              only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
+              <span class="code-box__kata">KATA from CODEWARS:</span> An isogram is a word that has
+              no repeating letters, consecutive or non-consecutive. Implement a function that
+              determines whether a string that contains only letters is an isogram. Assume the empty
+              string is an isogram. Ignore letter case.
             </p>
             <pre class="code-box__wrapper">
           <code class="code-box__code-example">
@@ -111,14 +163,15 @@
           </div>
           <div class="code-box">
             <p class="code-box__description">
-              KATA from CODEWARS: Usually when you buy something, you're asked whether your credit
-              card number, phone number or answer to your most secret question is still correct.
-              However, since someone could look over your shoulder, you don't want that shown on
-              your screen. Instead, we mask it. Your task is to write a function maskify, which
-              changes all but the last four characters into '#'.
+              <span class="code-box__kata">KATA from CODEWARS:</span> Usually when you buy
+              something, you're asked whether your credit card number, phone number or answer to
+              your most secret question is still correct. However, since someone could look over
+              your shoulder, you don't want that shown on your screen. Instead, we mask it. Your
+              task is to write a function maskify, which changes all but the last four characters
+              into '#'.
             </p>
             <pre class="code-box__wrapper">
-          <code class="code-box__code-example">
+          <code class="code-box__code-example" data-language="javascropt">
             function maskify(cc) {
               let result = cc.split('')
                               .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
@@ -133,30 +186,32 @@
         <section class="courses">
           <h2 class="courses__title title">Courses and Education:</h2>
           <ul class="courses-list list">
-            <li class="list__item">
+            <li class="courses-list__item list__item">
               <h3 class="courses-item__title">2019 - HTML5 & CSS3:</h3>
               <p class="courses-item__description">
                 Introduction to Frontend Website Development. GeekBrain
               </p>
-              <a class="courses-item__certificate-link" href="https://gb.ru/certificates/654907.en#"
+              <a class="link" href="https://gb.ru/certificates/654907.en#" target="_blank"
                 >Certificate</a
               >
             </li>
-            <li class="courses-item">
+            <li class="courses-list__item list__item">
               <h3 class="courses-item__title">2018 - Front-end Basic:</h3>
               <p class="courses-item__description">HTML5 & CSS3</p>
               <a
-                class="courses-item__certificate-link"
+                class="link"
                 href="https://admin.itschool-hillel.org/certificate/HISD46309649-en.png"
+                target="_blank"
                 >Certificate</a
               >
             </li>
-            <li class="courses-item">
+            <li class="courses-list__item list__item">
               <h3 class="courses-item__title">2018 - Front-end Pro:</h3>
               <p class="courses-item__description">Basic knowledge of JavaScript (ES5, ES6+)</p>
               <a
-                class="courses-item__certificate-link"
+                class="link"
                 href="https://admin.ithillel.ua/certificate/HISD59043827-en.pdf"
+                target="_blank"
                 >Certificate</a
               >
             </li>

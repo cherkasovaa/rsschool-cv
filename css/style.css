@@ -1,0 +1,185 @@
+
+
+:root{
+  --primary-font: 'Rubik', sans-serif;
+  --secondary-font: 'Sorts Mill Goudy', serif;
+
+  --primary-color: #171E28;
+  --secondary-color: #222A35;
+
+  --main-text-color: #F6F9F5;
+  --sub-text-color: #6E757D;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+.main {
+  background-color: #F8E6D8;
+  color: var(--main-text-color);
+  padding: 50px 0;
+  font-family: var(--primary-font);
+  font-size: 1rem;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 100px 70px;
+  background-color: var(--primary-color);
+  box-shadow: 0 10px 20px rgb(122, 122, 122);
+}
+
+.main-info{
+  position: relative;
+}
+
+.avatar {
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.avatar__image {
+  width: 100%;
+  height: 100%;
+}
+
+.main-info {
+  text-transform: uppercase;
+}
+
+.main-info__position {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  font-size: 1.3rem;
+  color: var(--sub-text-color);
+}
+
+.main-info__title {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  max-width: 300px;
+  font-family: var(--secondary-font);
+  font-weight: 400;
+  font-size: 3.2rem;
+  line-height: 2.9rem;
+}
+
+.title {
+  font-family: var(--secondary-font);
+  font-weight: 400;
+  font-size: 3.2rem;
+  color: var(--main-text-color);
+  padding: 30px 0 30px 50px;
+}
+
+.contacts {
+  padding: 70px 0;
+}
+
+.list {
+  position: relative;
+  margin-left: auto;
+  max-width: 80%;
+  padding-left: 30px;
+}
+
+.list::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 100%;
+  background-color: #fff;
+}
+
+.list__item {
+  padding-bottom: 7px;
+}
+
+.link {
+  color: var(--sub-text-color);
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.link:hover {
+  color: var(--main-text-color);
+}
+
+.summary__text {
+  line-height: 1.5rem;
+}
+
+.experience-list__position,
+.experience-list__company,
+.experience-list__duration{
+  font-size: 1.2rem;
+}
+
+.achievements,
+.projects {
+  padding-top: 20px;
+}
+
+.achievements__title,
+.projects__title {
+  color: var(--sub-text-color);
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.achievements__item:not(:first-child),
+.projects__item:not(:first-child) {
+  position: relative;
+  padding-left: 20px;
+}
+
+.achievements__item:not(:first-child)::before,
+.projects__item:not(:first-child)::before {
+  content: '-';
+  position: absolute;
+  left: 0;
+}
+
+.code-box__description {
+  font-style: italic;
+}
+
+.code-box__kata {
+  font-style: normal;
+  font-weight: 700;
+  color: var(--sub-text-color);
+}
+
+.code-box__wrapper {
+  background-color: var(--sub-text-color);
+  border-radius: 15px;
+  margin: 20px 0;
+}
+
+.courses-list__item{
+  padding-bottom: 15px;
+  line-height: 1.5rem;
+}
+
+.courses-item__title {
+  font-weight: 600;
+}
+
+.skills-list {
+  list-style-position: inside;
+  column-count: 3;
+}

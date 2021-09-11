@@ -6,6 +6,7 @@
 
   --primary-color: #171E28;
   --secondary-color: #222A35;
+  --icon-color: #000000;
 
   --main-text-color: #F6F9F5;
   --sub-text-color: #6E757D;
@@ -31,13 +32,18 @@ ul {
 .container {
   width: 80%;
   margin: 0 auto;
-  padding: 100px 70px;
+  padding: 100px 0;
   background-color: var(--primary-color);
   box-shadow: 0 10px 20px rgb(122, 122, 122);
 }
 
+section {
+  padding: 35px 70px;
+}
+
 .main-info{
   position: relative;
+  padding-bottom: 70px;
 }
 
 .avatar {
@@ -57,18 +63,20 @@ ul {
   text-transform: uppercase;
 }
 
-.main-info__position {
+.main-info__position,
+.main-info__title {
   position: absolute;
-  top: 150px;
-  left: 0;
+  left: 70px;
+}
+
+.main-info__position {
+  top: 170px;
   font-size: 1.3rem;
   color: var(--sub-text-color);
 }
 
 .main-info__title {
-  position: absolute;
-  top: 190px;
-  left: 0;
+  top: 220px;
   max-width: 300px;
   font-family: var(--secondary-font);
   font-weight: 400;
@@ -82,10 +90,6 @@ ul {
   font-size: 3.2rem;
   color: var(--main-text-color);
   padding: 30px 0 30px 50px;
-}
-
-.contacts {
-  padding: 70px 0;
 }
 
 .list {
@@ -182,4 +186,20 @@ ul {
 .skills-list {
   list-style-position: inside;
   column-count: 3;
+}
+
+.experience,
+.code-example {
+  background-color: var(--secondary-color);
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  transition: 0.5s;
+  fill: var(--icon-color);
+}
+
+.icon:hover{
+  fill: var(--main-text-color);
 }

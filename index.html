@@ -9,18 +9,22 @@
       href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;700&family=Sorts+Mill+Goudy&display=swap"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/monokai-sublime.min.css"
+    />
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
     <main class="main">
       <div class="container">
-        <section class="main-info">
+        <header class="main-info">
           <p class="main-info__position">Front-end developer</p>
           <h1 class="main-info__title">Alina Cherkasova</h1>
           <div class="avatar">
-            <img src="./images/Alina_bw.jpg" alt="my photo" class="avatar__image" />
+            <img src="./images/Alina_bw.jpg" alt="Alina's photo" class="avatar__image" />
           </div>
-        </section>
+        </header>
         <section class="contacts">
           <h2 class="contacts__title title">Contact information:</h2>
           <ul class="contacts-list list">
@@ -159,7 +163,7 @@
               string is an isogram. Ignore letter case.
             </p>
             <pre class="code-box__wrapper">
-          <code class="code-box__code-example">
+          <code class="code-box__code-example javascript">
             function isIsogram(str){
               let setSize = new Set(str.toLowerCase()).size;
               return setSize === str.length ? true : false
@@ -177,7 +181,7 @@
               into '#'.
             </p>
             <pre class="code-box__wrapper">
-          <code class="code-box__code-example" data-language="javascropt">
+          <code class="code-box__code-example javascript" data-language="javascropt">
             function maskify(cc) {
               let result = cc.split('')
                               .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
@@ -251,5 +255,10 @@
         </footer>
       </div>
     </main>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js"></script>
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
   </body>
 </html>

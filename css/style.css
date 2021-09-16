@@ -166,12 +166,6 @@ section {
   color: var(--sub-text-color);
 }
 
-.code-box__wrapper {
-  background-color: var(--sub-text-color);
-  border-radius: 15px;
-  margin: 20px 0;
-}
-
 .courses-list__item{
   padding-bottom: 15px;
   line-height: 1.5rem;

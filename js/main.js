@@ -7,26 +7,27 @@ const overflow = document.createElement('div');
 overflow.className = 'overflow';
 
 menu.addEventListener('click', function (e) {
-  menu.classList.toggle('active');
+  if (window.innerWidth < 992) {
+    menu.classList.toggle('active');
 
-  let checkOpenMenu = menu.classList.contains('active');
+    let checkOpenMenu = menu.classList.contains('active');
 
-  checkOpenMenu ? (body.style.overflow = 'hidden') : (body.style.overflow = 'scroll');
+    checkOpenMenu ? (body.style.overflow = 'hidden') : (body.style.overflow = 'scroll');
 
-  checkOpenMenu ? container.prepend(overflow) : overflow.remove();
+    checkOpenMenu ? container.prepend(overflow) : overflow.remove();
+  }
 });
 
 menuItem.forEach((item) => {
   item.addEventListener('click', function (e) {
-    let checkOpenMenu = menu.classList.contains('active');
+    if (window.innerWidth < 992) {
+      let checkOpenMenu = menu.classList.contains('active');
 
-    menu.classList.toggle('active');
+      menu.classList.toggle('active');
 
-    checkOpenMenu ? (body.style.overflow = 'scroll') : (body.style.overflow = 'hidden');
+      checkOpenMenu ? (body.style.overflow = 'scroll') : (body.style.overflow = 'hidden');
 
-    checkOpenMenu ? overflow.remove() : container.prepend(overflow);
+      checkOpenMenu ? overflow.remove() : container.prepend(overflow);
+    }
   });
 });
-
-// !TODO: smooth display navigation
-// !TODO: mobile adaptive

@@ -1,6 +1,6 @@
 :root {
-  --primary-font: 'Rubik', sans-serif;
-  --secondary-font: 'Sorts Mill Goudy', serif;
+  --primary-font: "Rubik", sans-serif;
+  --secondary-font: "Sorts Mill Goudy", serif;
   --primary-color: #171e28;
   --secondary-color: #222a35;
   --icon-color: #000000;
@@ -103,7 +103,7 @@ section {
 }
 
 .list::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -167,7 +167,7 @@ section {
 
 .achievements__item:not(:first-child)::before,
 .projects__item:not(:first-child)::before {
-  content: '-';
+  content: "-";
   position: absolute;
   left: 0;
 }
@@ -268,7 +268,7 @@ section {
 }
 
 .navigation__link::after {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   bottom: -3px;

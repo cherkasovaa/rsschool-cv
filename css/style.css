@@ -141,7 +141,15 @@ section {
   margin-bottom: 30px;
 }
 
+.experience-list__item:not(:first-child) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
 .experience-list__title {
+  display: block;
+  width: 100%;
   font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 15px;

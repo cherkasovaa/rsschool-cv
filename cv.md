@@ -26,8 +26,8 @@ Self-motivated developer with 2 years commercial experience in the gaming indust
 
 ## Experience
 * HTML5 Developer.
-    Absolutist Ltd.
-    December 2018 – January 2020.
+  Absolutist Ltd.
+  December 2018 – January 2020.
 
   Key Achievement:
   - Ported more than 40 flash games to JavaScript;
@@ -43,13 +43,41 @@ Self-motivated developer with 2 years commercial experience in the gaming indust
   - [Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)
   - [Cover Orange: Journey Pirates](https://absolutist.com/online/cover-orange-journey-pirates/)
 
+* My projects during courses:
+  - Websites:
+    + [Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2022Q1/shelter/pages/main/)
+    + [Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
+    + [Tattos Website](https://cherkasovaa.github.io/tattoo/)
+  
+  - Applications:
+    + [Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)
+    + [Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/audio-player/)
+    + [Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
+    + [Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)
+    + [Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/image-galery)
+
+  - Games
+    + [Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/memory-game/)
+    + [Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/tic-tac-toe/)
+
 ## Code examples:
-**KATA from CODEWARS:** *An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.*
+**KATA from CODEWARS:** *The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.*
 ```javascript
-function isIsogram(str){
-  let setSize = new Set(str.toLowerCase()).size;
-  return setSize === str.length ? true : false
-}
+  function rgb(r, g, b){
+    r = createHex(r);
+    g = createHex(g);
+    b = createHex(b);
+    
+    return `${r}${g}${b}`
+  }
+
+  function createHex(color){
+    if(color < 0) color = 0;
+    if(color > 255) color = 255;
+    
+    let hex = color.toString(16).toUpperCase();
+    return hex.length === 1 ? '0' + hex : hex;
+  }
 ```
 
 **KATA from CODEWARS:** *Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoulder, you don't want that shown on your screen. Instead, we mask it. Your task is to write a function maskify, which changes all but the last four characters into '#'.*
@@ -64,6 +92,9 @@ function maskify(cc) {
 ```
 
 ## Courses and Education:
+* 2021-2022 - JS Rolling Scopes School:
+  Front-end Developer
+[Certificate](https://app.rs.school/certificate/6t0l85gj#)
 * 2019 - HTML5 & CSS3:
   Introduction to Frontend Website Development. GeekBrain
 [Certificate](https://gb.ru/certificates/654907.en#)
@@ -77,5 +108,5 @@ function maskify(cc) {
 ## Languages:
 * Russian - native
 * Ukrainian - advance
-* English - B1
-* Polish - A1
+* English - A2
+* Polish - A2

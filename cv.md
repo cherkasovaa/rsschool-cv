@@ -45,7 +45,6 @@ Self-motivated developer with 2 years commercial experience in the gaming indust
 
 * My projects during courses:
   - Websites:
-    + [Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2022Q1/shelter/pages/main/)
     + [Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
     + [Tattos Website](https://cherkasovaa.github.io/tattoo/)
   

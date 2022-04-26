@@ -320,6 +320,8 @@ section {
   height: 250px;
   position: relative;
   background-size: cover;
+  display: flex;
+  justify-content: center;
 }
 
 .project__wrapper:hover .project__info {
@@ -328,7 +330,7 @@ section {
 }
 
 .project__screen {
-  width: 100%;
+  width: autp;
   height: 100%;
 }
 

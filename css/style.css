@@ -137,14 +137,15 @@ section {
   font-size: 1.2rem;
 }
 
-.experience-list__item:not(:last-child) {
-  margin-bottom: 30px;
-}
-
-.experience-list__item:not(:first-child) {
+.experience-list__item {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
+}
+
+.experience-list__item--no-flex {
+  display: block;
+  margin-bottom: 30px;
 }
 
 .experience-list__title {
@@ -303,6 +304,7 @@ section {
 }
 
 .project {
+  max-width: 400px;
   overflow: hidden;
   margin-bottom: 20px;
 }
@@ -316,7 +318,7 @@ section {
 }
 
 .project__wrapper {
-  max-width: 400px;
+  /* max-width: 400px; */
   height: 250px;
   position: relative;
   background-size: cover;

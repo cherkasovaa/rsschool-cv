@@ -542,7 +542,7 @@
                 }
 
                 function createHex(color){
-                  if(color < 0) color = 0;
+                  if(color &lt; 0) color = 0;
                   if(color > 255) color = 255;
                   
                   let hex = color.toString(16).toUpperCase();

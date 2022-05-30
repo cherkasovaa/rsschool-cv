@@ -3,7 +3,7 @@
   --secondary-font: "Sorts Mill Goudy", serif;
   --primary-color: #171e28;
   --secondary-color: #222a35;
-  --icon-color: #000000;
+  --icon-color: #7c7c7c;
   --highlight-color: #d8c622;
   --main-text-color: #f6f9f5;
   --sub-text-color: #6e757d;
@@ -95,6 +95,48 @@ section {
   padding: 30px 0 30px 50px;
 }
 
+.subtitle {
+  font-size: var(--text-size);
+  text-transform: uppercase;
+  margin-right: 40px;
+  padding: 15px 0;
+}
+
+.languages,
+.frameworks,
+.preprocessors,
+.tools {
+  display: flex;
+  align-items: baseline;
+}
+
+.languages .subtitle,
+.frameworks .subtitle,
+.preprocessors .subtitle,
+.tools .subtitle {
+  flex: 1 1 250px;
+}
+
+.languages-container,
+.frameworks-container,
+.preprocessors-container,
+.tools-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 30px;
+  width: 100%;
+}
+
+.languages-container .icon,
+.frameworks-container .icon,
+.preprocessors-container .icon,
+.tools-container .icon {
+  width: 15px;
+  height: 15px;
+  margin: 0 5px;
+}
+
 .list {
   position: relative;
   margin-left: auto;
@@ -137,9 +179,10 @@ section {
   font-size: 1.2rem;
 }
 
-.experience-list__item {
+.web-projects {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
   gap: 15px;
 }
 
@@ -200,11 +243,6 @@ section {
   font-weight: 600;
 }
 
-.skills-list {
-  list-style-position: inside;
-  column-count: 3;
-}
-
 .experience,
 .code-example {
   background-color: var(--secondary-color);
@@ -235,7 +273,7 @@ section {
   justify-content: space-around;
   align-items: center;
   background-color: var(--secondary-color);
-  padding: 30px 0 30px;
+  padding: 10px 0;
 }
 
 .navigation {
@@ -318,7 +356,6 @@ section {
 }
 
 .project__wrapper {
-  /* max-width: 400px; */
   height: 250px;
   position: relative;
   background-size: cover;
@@ -332,7 +369,7 @@ section {
 }
 
 .project__screen {
-  width: autp;
+  width: auto;
   height: 100%;
 }
 
@@ -374,6 +411,18 @@ section {
   .main-info__title {
     max-width: 500px;
     top: 330px;
+  }
+  .languages,
+  .frameworks,
+  .preprocessors,
+  .tools {
+    flex-direction: column;
+  }
+  .languages .subtitle,
+  .frameworks .subtitle,
+  .preprocessors .subtitle,
+  .tools .subtitle {
+    flex-basis: 100%;
   }
 }
 
@@ -426,6 +475,12 @@ section {
     font-size: calc(var(--heading-size) - 0.3rem);
     padding: 35px 0 0;
   }
+
+  .subtitle {
+    font-size: 1rem;
+    padding-bottom: 15px;
+  }
+
   section {
     padding: 0 10% 35px;
   }
@@ -454,8 +509,13 @@ section {
     font-size: 1.5rem;
     top: 300px;
   }
-  .skills-list {
-    column-count: 2;
+  .subtitle {
+    font-size: 1rem;
+  }
+  
+  .web-projects {
+    flex-wrap: nowrap;
+    flex-direction: column;
   }
 }
 
@@ -479,9 +539,10 @@ section {
   .main-info__title {
     font-size: 1.2rem;
   }
-  .skills-list {
-    column-count: 1;
+  .subtitle {
+    font-size: 1rem;
   }
+
   .list {
     max-width: 100%;
   }

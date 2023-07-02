@@ -8,3 +8,17 @@
 - **Telegram:** @cherkasova_aa
 - [LinkedIn](https://www.linkedin.com/in/alinacherkasova/)
 - [Github](https://github.com/cherkasovaa)
+
+## Skills and Proficiency:
+
+- HTML5
+- CSS3 (SCSS, Less)
+- CSS Framework: Bootstrap
+- BEM
+- JavaScript (ES5+)
+- JQuery
+- ActionScript3
+- Gulp
+- Git
+- Figma, Photoshop
+- Editors: VSCode, Sublime

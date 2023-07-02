@@ -68,3 +68,60 @@ Self-motivated developer with 2 years commercial experience in the gaming indust
   - Games
     - [Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/memory-game/)
     - [Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/tic-tac-toe/)
+
+## Code examples:
+
+**KATA from CODEWARS:** _The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value._
+
+```javascript
+function rgb(r, g, b) {
+  r = createHex(r);
+  g = createHex(g);
+  b = createHex(b);
+
+  return `${r}${g}${b}`;
+}
+
+function createHex(color) {
+  if (color < 0) color = 0;
+  if (color > 255) color = 255;
+
+  let hex = color.toString(16).toUpperCase();
+  return hex.length === 1 ? '0' + hex : hex;
+}
+```
+
+**KATA from CODEWARS:** _Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoulder, you don't want that shown on your screen. Instead, we mask it. Your task is to write a function maskify, which changes all but the last four characters into '#'._
+
+```javascript
+function maskify(cc) {
+  let result = cc
+    .split('')
+    .map((n, i, arr) => (arr.length - 5 < i ? n : '#'))
+    .join('');
+
+  return result;
+}
+```
+
+## Courses and Education:
+
+- 2021-2022 - JS Rolling Scopes School:
+  Front-end Developer
+  [Certificate](https://app.rs.school/certificate/6t0l85gj#)
+- 2019 - HTML5 & CSS3:
+  Introduction to Frontend Website Development. GeekBrain
+  [Certificate](https://gb.ru/certificates/654907.en#)
+- 2018 - Front-end Basic:
+  HTML5 & CSS3
+  [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
+- 2018 - Front-end Pro:
+  Basic knowledge of JavaScript (ES5, ES6+)
+  [Certificate](https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)
+
+## Languages:
+
+- Russian - native
+- Ukrainian - advance
+- English - A2
+- Polish - A2

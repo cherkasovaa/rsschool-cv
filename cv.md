@@ -123,5 +123,5 @@ function maskify(cc) {
 
 - Russian - native
 - Ukrainian - advance
-- English - A2
+- English - B1
 - Polish - A2

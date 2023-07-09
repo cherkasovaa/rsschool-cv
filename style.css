@@ -286,7 +286,7 @@ section:nth-child(3n) {
 .project {
   max-width: 400px;
   overflow: hidden;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .project__title {
@@ -313,7 +313,6 @@ section:nth-child(3n) {
 }
 
 .project__screen {
-  width: autp;
   height: 100%;
 }
 
@@ -332,9 +331,9 @@ section:nth-child(3n) {
 
 .project__technologies {
   font-size: var(--text-size);
-  font-family: var(--secondary-font);
-  font-weight: 600;
-  font-weight: 600;
+  font-family: var(--primary-font);
+  color: var(--highlight-color);
+  text-transform: uppercase;
   padding-bottom: 10px;
   letter-spacing: 1.5px;
 }

@@ -171,7 +171,7 @@ section:nth-child(3n) {
   font-family: var(--secondary-font);
   font-weight: 400;
   font-size: var(--heading-size);
-  color: var(--main-text-color);
+  color: var(--highlight-color);
   padding: 30px 0 30px 50px;
 }
 
@@ -210,12 +210,13 @@ section:nth-child(3n) {
   width: 30px;
   height: 30px;
   margin-top: 10px;
+  margin-right: 10px;
   transition: 0.5s;
-  fill: var(--icon-color);
+  fill: var(--main-text-color);
 }
 
 .icon:hover {
-  fill: var(--main-text-color);
+  fill: var(--highlight-color);
 }
 
 .icon_large {
@@ -366,6 +367,10 @@ section:nth-child(3n) {
   font-weight: 600;
 }
 
+.languages-list {
+  columns: 2;
+}
+
 .footer {
   display: flex;
   justify-content: space-around;
@@ -509,6 +514,10 @@ section:nth-child(3n) {
 
   .skills-list {
     column-count: 1;
+  }
+
+  .languages-list {
+    columns: 1;
   }
 }
 

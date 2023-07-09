@@ -478,6 +478,10 @@ section {
 }
 
 @media screen and (max-width: 480px) {
+  .navigation__item {
+    font-size: 1.5rem;
+  }
+
   .avatar {
     width: 200px;
     height: 200px;

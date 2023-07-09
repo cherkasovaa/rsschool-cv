@@ -29,6 +29,10 @@ section {
   padding: 0 70px 35px;
 }
 
+section:nth-child(3n) {
+  background-color: var(--secondary-color);
+}
+
 .main {
   background-color: #f8e6d8;
   color: var(--main-text-color);

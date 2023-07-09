@@ -214,6 +214,10 @@ section {
   fill: var(--main-text-color);
 }
 
+.icon_large {
+  width: 100px;
+}
+
 .skills-list {
   list-style-position: inside;
   column-count: 3;
@@ -359,13 +363,27 @@ section {
   font-weight: 600;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: var(--secondary-color);
+  padding: 30px 0 30px;
+}
+
 @media screen and (max-width: 992px) {
+  section {
+    padding: 0 10% 35px;
+  }
+
   .burger-menu {
     display: block;
   }
+
   .navigation {
     margin: 0 0 0 70px;
   }
+
   .navigation__menu {
     display: none;
     position: absolute;
@@ -373,44 +391,52 @@ section {
     z-index: 3;
     height: 100vh;
   }
+
   .burger-menu.active .burger-menu__item {
     background-color: var(--sub-text-color);
   }
+
   .burger-menu.active .burger-menu__item:first-child {
     transform: rotate(45deg) translateX(6px);
   }
+
   .burger-menu.active .burger-menu__item:last-child {
     transform: rotate(-45deg) translateX(6px);
   }
+
   .burger-menu.active + .navigation__menu {
     display: block;
     transition: 0.5s;
   }
+
   .navigation__item {
     padding-bottom: 20px;
     font-size: 2rem;
   }
+
   .container {
     padding-top: 70px;
   }
+
   .main-info__position {
     top: 300px;
   }
+
   .main-info__title {
     top: 330px;
   }
+
   .main-info__title {
     max-width: 100%;
     font-size: calc(var(--heading-size) - 0.3rem);
     padding-bottom: 35px;
   }
+
   .title {
     font-size: calc(var(--heading-size) - 0.3rem);
     padding: 35px 0 0;
   }
-  section {
-    padding: 0 10% 35px;
-  }
+
   .list {
     max-width: 90%;
   }
@@ -421,18 +447,22 @@ section {
     width: 240px;
     height: 240px;
   }
+
   .main-info__position,
   .main-info__title {
     left: 10%;
   }
+
   .main-info__position {
     font-size: 1.2rem;
     top: 280px;
   }
+
   .main-info__title {
     font-size: 1.5rem;
     top: 300px;
   }
+
   .skills-list {
     column-count: 2;
   }
@@ -452,18 +482,23 @@ section {
     width: 200px;
     height: 200px;
   }
+
   .main-info__position {
     top: 250px;
   }
+
   .main-info__title {
     top: 270px;
   }
+
   .title {
     font-size: 1.7rem;
   }
+
   .list {
     max-width: 100%;
   }
+
   .skills-list {
     column-count: 1;
   }

@@ -25,6 +25,10 @@ html {
   scroll-behavior: smooth;
 }
 
+section {
+  padding: 0 70px 35px;
+}
+
 .main {
   background-color: #f8e6d8;
   color: var(--main-text-color);
@@ -210,6 +214,16 @@ html {
   fill: var(--main-text-color);
 }
 
+.skills-list {
+  list-style-position: inside;
+  column-count: 3;
+}
+
+.summary__text {
+  line-height: 1.5rem;
+  text-indent: 25px;
+}
+
 @media screen and (max-width: 992px) {
   .burger-menu {
     display: block;
@@ -284,6 +298,9 @@ html {
     font-size: 1.5rem;
     top: 300px;
   }
+  .skills-list {
+    column-count: 2;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -302,6 +319,9 @@ html {
   }
   .list {
     max-width: 100%;
+  }
+  .skills-list {
+    column-count: 1;
   }
 }
 

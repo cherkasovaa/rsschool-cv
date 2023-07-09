@@ -350,6 +350,15 @@ section {
   color: var(--sub-text-color);
 }
 
+.courses-list__item {
+  padding-bottom: 15px;
+  line-height: 1.5rem;
+}
+
+.courses-item__title {
+  font-weight: 600;
+}
+
 @media screen and (max-width: 992px) {
   .burger-menu {
     display: block;

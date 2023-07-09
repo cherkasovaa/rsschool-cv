@@ -6,6 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Alina Cherkasova - Front-end Developer</title>
   <link rel="stylesheet" href="./style.css">
+  <link crossorigin="anonymous"
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;700&family=Sorts+Mill+Goudy&display=swap"
+    rel="stylesheet" />
+  <link crossorigin="anonymous" rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/monokai-sublime.min.css" />
 </head>
 
 <body>
@@ -393,10 +398,40 @@
           </li>
         </ul>
       </section>
+
+      <!-- code example -->
+
+      <section class="code-example" id="code-example">
+        <h2 class="code-example__title title">Code examples:</h2>
+        <div class="code-box">
+          <p class="code-box__description">
+            <span class="code-box__kata">KATA from CODEWARS:</span> Usually when you buy something, you're asked
+            whether your credit card number, phone number or answer to your most secret question is still correct.
+            However, since someone could look over your shoulder, you don't want that shown on your screen. Instead,
+            we mask it. Your task is to write a function maskify, which changes all but the last four characters into
+            '#'.
+          </p>
+          <pre class="code-box__wrapper">
+            <code class="code-box__code-example javascript" data-language="javascript">
+              function maskify(cc) {
+                let result = cc.split('')
+                                .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
+                                .join('');
+
+                return result;
+              }
+            </code>
+          </pre>
+        </div>
+      </section>
     </div>
   </main>
 
   <script src="./js/index.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
 </body>
 
 </html>

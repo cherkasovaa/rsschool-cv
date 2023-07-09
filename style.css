@@ -60,13 +60,13 @@ section {
 }
 
 .main-info__position {
-  top: 170px;
+  bottom: 28%;
   font-size: 1.3rem;
   color: var(--sub-text-color);
 }
 
 .main-info__title {
-  top: 220px;
+  bottom: 0;
   max-width: 300px;
   font-family: var(--secondary-font);
   font-weight: 400;
@@ -429,7 +429,6 @@ section {
   .main-info__title {
     max-width: 100%;
     font-size: calc(var(--heading-size) - 0.3rem);
-    padding-bottom: 35px;
   }
 
   .title {
@@ -489,10 +488,12 @@ section {
 
   .main-info__position {
     top: 250px;
+    font-size: 0.8rem;
   }
 
   .main-info__title {
     top: 270px;
+    font-size: 1.2rem;
   }
 
   .title {

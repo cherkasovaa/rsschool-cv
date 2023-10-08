@@ -442,12 +442,10 @@
           </p>
           <pre class="code-box__wrapper">
             <code class="code-box__code-example javascript" data-language="javascript">
-          function maskify(cc) {
-            let result = cc.split('')
-                            .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
-                            .join('');
-
-            return result;
+          const maskify = (value) => {
+            return value.split('')
+                        .map((num, i, arr) => arr.length - 5 &lt; i ? num : "#")
+                        .join('');
           }
             </code>
           </pre>

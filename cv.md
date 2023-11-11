@@ -1,27 +1,49 @@
 # Alina Cherkasova
 
+---
+
 ## Contact information:
 
-- **Location:** Moscow, Russia
-- **Phone:** +7 999 918 43 73
-- **E-mail:** alina.ch1202@gmail.com
-- **Telegram:** @cherkasova_aa
-- [LinkedIn](https://www.linkedin.com/in/alinacherkasova/)
-- [Github](https://github.com/cherkasovaa)
+**Location:** Moscow, Russia\
+**Phone:** +7 999 918 43 73\
+**E-mail:** alina.ch1202@yandex.com\
+**Telegram:** @cherkasova_aa\
+[LinkedIn](https://www.linkedin.com/in/alinacherkasova/)\
+[Github](https://github.com/cherkasovaa)
+
+---
 
 ## Skills and Proficiency:
 
 - HTML5
 - CSS3 (SCSS, Less)
-- CSS Framework: Bootstrap
-- BEM
 - JavaScript (ES5+)
-- JQuery
+- TypeScript
 - ActionScript3
+
+**Frameworks & Libraries:**
+
+- Bootstrap
+- React
+
+**Editors:**
+
+- VSCode
+
+**Metodologic:**
+
+- BEM
+
+**Others:**
+
+- Webpack
 - Gulp
+- Grunt
 - Git
+- Github
 - Figma, Photoshop
-- Editors: VSCode, Sublime
+
+---
 
 ## Summary
 
@@ -31,50 +53,56 @@ I have the ability to independently solve problems and enjoy diving into code to
 
 Additionally, I use my free time to create instructional videos on JavaScript, HTML5, and CSS3. This helps me pursue my favorite hobby and also allows me to believe that I can help others in their learning process.
 
+---
+
 ## Experience
 
-- HTML5 Developer.
-  Absolutist Ltd.
-  December 2018 – January 2020.
+### HTML5 Developer.
 
-  Key Achievement:
+Absolutist Ltd.
+December 2018 – January 2020.
 
-  - Participated in testing and development of a unique transpiling tool to convert flash games into modern JavaScript, which allowed adapting classic games to run in current browsers;
-  - Ported over 40 flash games to JavaScript, ensuring cross-browser compatibility and increasing audience reach;
-  - Adapted games for mobile devices, expanding product availability on iOS and Android;
-  - Created and maintained technical documentation, improving onboarding for new developers;
-  - Conducted mentoring and training for junior engineers in the team, increasing their productivity;
-  - Performed thorough product testing, reducing QA time expenditures;
+**Key Achievement:**
 
-  Some finished projects:
+- Participated in testing and development of a unique transpiling tool to convert flash games into modern JavaScript, which allowed adapting classic games to run in current browsers;
+- Ported over 40 flash games to JavaScript, ensuring cross-browser compatibility and increasing audience reach;
+- Adapted games for mobile devices, expanding product availability on iOS and Android;
+- Created and maintained technical documentation, improving onboarding for new developers;
+- Conducted mentoring and training for junior engineers in the team, increasing their productivity;
+- Performed thorough product testing, reducing QA time expenditures;
 
-  - [Blocks](https://wellgames.com/ru/free_online/blocks/)
-  - [Into Space](https://wellgames.com/ru/free_online/into-space/)
-  - [Fly Squirrel Fly 2](https://wellgames.com/ru/free_online/fly-squirrel-fly-2/)
-  - [Summon the hero](https://wellgames.com/ru/free_online/summon-the-hero/)
-  - [Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)
-  - [Cover Orange: Journey Pirates](https://absolutist.com/online/cover-orange-journey-pirates/)
+**Some finished projects:**
 
-- My projects during courses:
+[Blocks](https://wellgames.com/ru/free_online/blocks/)\
+[Into Space](https://wellgames.com/ru/free_online/into-space/)\
+[Fly Squirrel Fly 2](https://wellgames.com/ru/free_online/fly-squirrel-fly-2/)\
+[Summon the hero](https://wellgames.com/ru/free_online/summon-the-hero/)\
+[Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)\
+[Cover Orange: Journey Pirates](https://absolutist.com/online/cover-orange-journey-pirates/)
 
-  - Websites:
+### My projects during courses:
 
-    - [Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)
-    - [Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2022Q1/shelter/pages/main/)
-    - [Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
-    - [Tattos Website](https://cherkasovaa.github.io/tattoo/)
+#### Websites:
 
-  - Applications:
+[Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)\
+[Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2022Q1/shelter/pages/main/)\
+[Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)\
+[Tattos Website](https://cherkasovaa.github.io/tattoo/)
 
-    - [Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/image-galery/)
-    - [Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/audio-player/)
-    - [Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)
-    - [Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)
-    - [Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
+#### Applications:
 
-  - Games
-    - [Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)
-    - [Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/tic-tac-toe/)
+[Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/image-galery/)\
+[Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/audio-player/)\
+[Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)\
+[Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)\
+[Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
+
+#### Games:
+
+[Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)\
+[Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/tic-tac-toe/)
+
+---
 
 ## Code examples:
 
@@ -90,24 +118,28 @@ function maskify(cc) {
 }
 ```
 
+---
+
 ## Courses and Education:
 
 - 2023 - JS Rolling Scopes School:
-  Front-end Developer
+  Front-end Developer\
   [Certificate](https://app.rs.school/certificate/pb1lj66a)
 - 2019 - HTML5 & CSS3:
-  Introduction to Frontend Website Development. GeekBrain
+  Introduction to Frontend Website Development. GeekBrain\
   [Certificate](https://gb.ru/certificates/654907.en#)
 - 2018 - Front-end Basic:
-  HTML5 & CSS3
+  HTML5 & CSS3\
   [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
 - 2018 - Front-end Pro:
-  Basic knowledge of JavaScript (ES5, ES6+)
+  Basic knowledge of JavaScript (ES5, ES6+)\
   [Certificate](https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)
+
+---
 
 ## Languages:
 
-- Russian - native
-- Ukrainian - advance
-- English - B1
-- Polish - A2
+Russian - native\
+Ukrainian - advance\
+English - B1\
+Polish - A2

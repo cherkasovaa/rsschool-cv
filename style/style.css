@@ -139,10 +139,6 @@ section {
   fill: var(--main-text-color);
 }
 
-.icon_large {
-  width: 100px;
-}
-
 .icon:hover {
   fill: var(--highlight-color);
 }

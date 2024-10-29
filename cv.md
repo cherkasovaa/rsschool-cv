@@ -1,17 +1,17 @@
 # Alina Cherkasova
 
-![Avatar](./assets/avatar.jpg)
+![Avatar](./assets/avatar.jpg )
 
 ================================================================
 
 ## Contact information
 
-**Location:** Moscow, Russia
-**Phone:** +7 999 918 43 73
-**E-mail:** alina.ch1202@yandex.com
-**Telegram:** @cherkasova_aa
-[Github](https://github.com/cherkasovaa)
-[LinkedIn](https://www.linkedin.com/in/alinacherkasova/)
+* **Location:** Moscow, Russia
+* **Phone:** +7 999 918 43 73
+* **E-mail:** alina.ch1202@yandex.com
+* **Telegram:** @cherkasova_aa
+* [Github](https://github.com/cherkasovaa)
+* [LinkedIn](https://www.linkedin.com/in/alinacherkasova/)
 
 ================================================================
 
@@ -67,34 +67,34 @@ December 2018 – January 2021
 
 **Some finished projects:**
 
-[Blocks](https://wellgames.com/ru/free_online/blocks/)
-[Into Space](https://wellgames.com/ru/free_online/into-space/)
-[Fly Squirrel Fly 2](https://wellgames.com/ru/free_online/fly-squirrel-fly-2/)
-[Summon the hero](https://wellgames.com/ru/free_online/summon-the-hero/)
-[Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)
-[Cover Orange: Journey Pirates](https://absolutist.com/online/cover-orange-journey-pirates/)
+* [Blocks](https://wellgames.com/ru/free_online/blocks/)
+* [Into Space](https://wellgames.com/ru/free_online/into-space/)
+* [Fly Squirrel Fly 2](https://wellgames.com/ru/free_online/fly-squirrel-fly-2/)
+* [Summon the hero](https://wellgames.com/ru/free_online/summon-the-hero/)
+* [Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)
+* [Cover Orange: Journey Pirates](https://absolutist.com/online/cover-orange-journey-pirates/)
 
 ### Finished projects during courses
 
 #### Websites
 
-[Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/shelter/pages/main/)
-[Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)
-[Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
-[Tattos Website](https://cherkasovaa.github.io/tattoo/)
+* [Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/shelter/pages/main/)
+* [Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)
+* [Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
+* [Tattos Website](https://cherkasovaa.github.io/tattoo/)
 
 #### Applications
 
-[Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/audio-player/)
-[Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/image-gallery/)
-[Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)
-[Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)
-[Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
+* [Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/audio-player/)
+* [Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/image-gallery/)
+* [Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)
+* [Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)
+* [Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
 
 #### Games
 
-[Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/tic-tac-toe/)
-[Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)
+* [Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/tic-tac-toe/)
+* [Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)
 
 ================================================================
 
@@ -132,7 +132,7 @@ function maskify(cc) {
 
 ## Languages
 
-English - B1
-Russian - native
-Ukrainian - advanced
-Polish - A2
+* English - B1
+* Russian - native
+* Ukrainian - advanced
+* Polish - A2

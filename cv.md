@@ -125,3 +125,12 @@ function maskify(cc) {
 - 2018 - Front-end Pro:
   Basic knowledge of JavaScript (ES5, ES6+)
   [Certificate](https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)
+
+============================================================
+
+## Languages
+
+English - B1
+Russian - native
+Ukrainian - advanced
+Polish - A2

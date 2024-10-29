@@ -2,7 +2,7 @@
 
 ================================================================
 
-## Contact information:
+## Contact information
 
 **Location:** Moscow, Russia
 **Phone:** +7 999 918 43 73
@@ -25,7 +25,7 @@ Seeking a role where I can contribute to innovative projects and continue to lea
 
 ================================================================
 
-## Skills and Proficiency:
+## Skills and Proficiency
 
 * **Main skills:**
   - HTML5

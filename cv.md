@@ -13,6 +13,18 @@
 
 ================================================================
 
+## Summary
+
+Enthusiastic and motivated Frontend Developer eager to leverage strong skills in HTML, CSS, JavaScript (ES6+), and React to create beautiful and user-friendly web applications.
+
+Experienced in porting legacy code to modern web technologies and optimizing for performance and cross-browser compatibility. 
+
+Proven ability to work both independently and collaboratively to deliver high-quality results within challenging and fast-paced environments. 
+
+Seeking a role where I can contribute to innovative projects and continue to learn and grow as a front-end developer.
+
+================================================================
+
 ## Skills and Proficiency:
 
 * **Main skills:**

@@ -10,3 +10,25 @@
 **Telegram:** @cherkasova_aa
 [Github](https://github.com/cherkasovaa)
 [LinkedIn](https://www.linkedin.com/in/alinacherkasova/)
+
+================================================================
+
+## Skills and Proficiency:
+
+* **Main skills:**
+  - HTML5
+  - CSS3 (SASS/SCSS, Less)
+  - JavaScript (ES5+)
+  - TypeScript
+* **Frameworks & Libraries:**
+  - Bootstrap
+  - React
+* **Metodologic:**
+  - BEM
+* **Tools:**
+  - Webpack
+  - Gulp
+  - Grunt
+  - Git
+  - IDE: VSCode
+  - Figma, Photoshop

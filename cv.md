@@ -1,5 +1,7 @@
 # Alina Cherkasova
 
+![Avatar](./assets/avatar.jpg)
+
 ================================================================
 
 ## Contact information

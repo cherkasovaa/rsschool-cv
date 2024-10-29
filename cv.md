@@ -47,7 +47,56 @@ Seeking a role where I can contribute to innovative projects and continue to lea
   
 ================================================================
 
-## Code examples:
+## Experience
+
+### HTML5/JavaScript Developer
+
+Absolutist Ltd.
+December 2018 – January 2021
+
+**Key Achievement:**
+
+- Participated in the development and testing of a unique transpiling tool to convert Flash games into modern JavaScript, enabling classic games to run in current browsers.
+- Ported over 40 Flash games to JavaScript, ensuring cross-browser compatibility and increasing audience reach.
+- Adapted games for mobile devices (iOS and Android), expanding product availability.
+- Created and maintained technical documentation, streamlining the onboarding process for new developers.
+- Mentored and trained junior engineers within the team, boosting their productivity.
+- Conducted thorough product testing, reducing QA time expenditures.
+
+**Some finished projects:**
+
+[Blocks](https://wellgames.com/ru/free_online/blocks/)
+[Into Space](https://wellgames.com/ru/free_online/into-space/)
+[Fly Squirrel Fly 2](https://wellgames.com/ru/free_online/fly-squirrel-fly-2/)
+[Summon the hero](https://wellgames.com/ru/free_online/summon-the-hero/)
+[Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)
+[Cover Orange: Journey Pirates](https://absolutist.com/online/cover-orange-journey-pirates/)
+
+### Finished projects during courses
+
+#### Websites
+
+[Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/shelter/pages/main/)
+[Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)
+[Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
+[Tattos Website](https://cherkasovaa.github.io/tattoo/)
+
+#### Applications
+
+[Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/audio-player/)
+[Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/image-gallery/)
+[Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)
+[Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)
+[Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
+
+#### Games
+
+[Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/tic-tac-toe/)
+[Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)
+
+================================================================
+
+## Code examples
 
 **KATA from CODEWARS:** _Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoulder, you don't want that shown on your screen. Instead, we mask it. Your task is to write a function maskify, which changes all but the last four characters into '#'_
 

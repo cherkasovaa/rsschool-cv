@@ -109,3 +109,19 @@ function maskify(cc) {
   return result;
 }
 ```
+================================================================
+
+## Education
+
+- 2024 - JS Rolling Scopes School:
+  Front-end Developer
+  [Certificate](https://app.rs.school/certificate/z45a92jq)
+- 2019 - HTML5 & CSS3:
+  Introduction to Frontend Website Development. GeekBrain
+  [Certificate](https://gb.ru/certificates/654907.en#)
+- 2018 - Front-end Basic:
+  HTML5 & CSS3
+  [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
+- 2018 - Front-end Pro:
+  Basic knowledge of JavaScript (ES5, ES6+)
+  [Certificate](https://admin.ithillel.ua/certificate/HISD59043827-en.pdf)

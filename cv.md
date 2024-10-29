@@ -44,3 +44,19 @@ Seeking a role where I can contribute to innovative projects and continue to lea
   - Git
   - IDE: VSCode
   - Figma, Photoshop
+  
+================================================================
+
+## Code examples:
+
+**KATA from CODEWARS:** _Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoulder, you don't want that shown on your screen. Instead, we mask it. Your task is to write a function maskify, which changes all but the last four characters into '#'_
+
+```javascript
+function maskify(cc) {
+  let result = cc.split('')
+                  .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
+                  .join('');
+
+  return result;
+}
+```

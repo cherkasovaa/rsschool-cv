@@ -1,6 +1,6 @@
 # Alina Cherkasova
 
-![Avatar](./assets/avatar.jpg )
+![Avatar](./assets/avatar_150_150.jpg )
 
 ================================================================
 

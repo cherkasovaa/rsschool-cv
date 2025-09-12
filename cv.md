@@ -107,7 +107,7 @@ December 2018 – January 2021
 ```javascript
 function maskify(cc) {
   let result = cc.split('')
-                  .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
+                  .map((n, i, arr) =&gt; arr.length - 5 &lt; i ? n : "#")
                   .join('');
 
   return result;

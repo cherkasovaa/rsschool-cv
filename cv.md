@@ -31,21 +31,25 @@ Seeking a role where I can contribute to innovative projects and continue to lea
 
 * **Main skills:**
   - HTML5
-  - CSS3 (SASS/SCSS, Less)
+  - CSS3 (SCSS)
   - JavaScript (ES5+)
   - TypeScript
-* **Frameworks & Libraries:**
-  - Bootstrap
+* **Frameworks &amp; Libraries:**
   - React
-* **Metodologic:**
+  - React Router
+  - Next.js
+  - Tailwind CSS
+* **Knowledge:**
+  - Feature-Sliced Design (FSD)
   - BEM
+  - CI/CD
 * **Tools:**
   - Webpack
-  - Gulp
-  - Grunt
+  - Vite
   - Git
-  - IDE: VSCode
-  - Figma, Photoshop
+* **Design:**
+  - Figma
+  - Photoshop
   
 ================================================================
 
@@ -118,11 +122,11 @@ function maskify(cc) {
 - 2024 - JS Rolling Scopes School:
   Front-end Developer
   [Certificate](https://app.rs.school/certificate/z45a92jq)
-- 2019 - HTML5 & CSS3:
+- 2019 - HTML5 &amp; CSS3:
   Introduction to Frontend Website Development. GeekBrain
   [Certificate](https://gb.ru/certificates/654907.en#)
 - 2018 - Front-end Basic:
-  HTML5 & CSS3
+  HTML5 &amp; CSS3
   [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
 - 2018 - Front-end Pro:
   Basic knowledge of JavaScript (ES5, ES6+)
@@ -134,5 +138,4 @@ function maskify(cc) {
 
 * English - B1
 * Russian - native
-* Ukrainian - advanced
 * Polish - A2

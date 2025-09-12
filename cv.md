@@ -82,23 +82,21 @@ December 2018 – January 2021
 
 #### Websites
 
-* [Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/shelter/pages/main/)
-* [Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)
-* [Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
+* [Portfolio](https://cherkasovaa.vercel.app/)
+* [Christmas Shop](https://cherkasovaa.github.io/christmas-shop/)
 * [Tattos Website](https://cherkasovaa.github.io/tattoo/)
 
 #### Applications
 
-* [Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/audio-player/)
-* [Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/image-gallery/)
-* [Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)
-* [Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)
-* [Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
+* [Pokédex | Pokémon Search App](https://pokedex-pokemon-search.vercel.app/ru)
+* [Github Search App](https://gh-discover.vercel.app/)
+* [Decision Making Tool](https://cherkasovaa.github.io/decision-making-tool/)
 
 #### Games
 
-* [Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/tic-tac-toe/)
+* [Nonograms](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2024Q4/nonograms/)
 * [Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)
+* [Simon Says](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2024Q4/simon-says/)
 
 ================================================================
 

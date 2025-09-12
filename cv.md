@@ -31,21 +31,25 @@ Seeking a role where I can contribute to innovative projects and continue to lea
 
 * **Main skills:**
   - HTML5
-  - CSS3 (SASS/SCSS, Less)
+  - CSS3 (SCSS)
   - JavaScript (ES5+)
   - TypeScript
-* **Frameworks & Libraries:**
-  - Bootstrap
+* **Frameworks &amp; Libraries:**
   - React
-* **Metodologic:**
+  - React Router
+  - Next.js
+  - Tailwind CSS
+* **Knowledge:**
+  - Feature-Sliced Design (FSD)
   - BEM
+  - CI/CD
 * **Tools:**
   - Webpack
-  - Gulp
-  - Grunt
+  - Vite
   - Git
-  - IDE: VSCode
-  - Figma, Photoshop
+* **Design:**
+  - Figma
+  - Photoshop
   
 ================================================================
 
@@ -78,23 +82,21 @@ December 2018 – January 2021
 
 #### Websites
 
-* [Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/shelter/pages/main/)
-* [Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)
-* [Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)
+* [Portfolio](https://cherkasovaa.vercel.app/)
+* [Christmas Shop](https://cherkasovaa.github.io/christmas-shop/)
 * [Tattos Website](https://cherkasovaa.github.io/tattoo/)
 
 #### Applications
 
-* [Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/audio-player/)
-* [Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/image-gallery/)
-* [Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)
-* [Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)
-* [Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
+* [Pokédex | Pokémon Search App](https://pokedex-pokemon-search.vercel.app/ru)
+* [Github Search App](https://gh-discover.vercel.app/)
+* [Decision Making Tool](https://cherkasovaa.github.io/decision-making-tool/)
 
 #### Games
 
-* [Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2024Q2/tic-tac-toe/)
+* [Nonograms](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2024Q4/nonograms/)
 * [Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)
+* [Simon Says](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2024Q4/simon-says/)
 
 ================================================================
 
@@ -105,7 +107,7 @@ December 2018 – January 2021
 ```javascript
 function maskify(cc) {
   let result = cc.split('')
-                  .map((n, i, arr) => arr.length - 5 &lt; i ? n : "#")
+                  .map((n, i, arr) =&gt; arr.length - 5 &lt; i ? n : "#")
                   .join('');
 
   return result;
@@ -116,13 +118,13 @@ function maskify(cc) {
 ## Education
 
 - 2024 - JS Rolling Scopes School:
-  Front-end Developer
+  JS/FE PRE-SCHOOL
   [Certificate](https://app.rs.school/certificate/z45a92jq)
-- 2019 - HTML5 & CSS3:
+- 2019 - HTML5 &amp; CSS3:
   Introduction to Frontend Website Development. GeekBrain
   [Certificate](https://gb.ru/certificates/654907.en#)
 - 2018 - Front-end Basic:
-  HTML5 & CSS3
+  HTML5 &amp; CSS3
   [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)
 - 2018 - Front-end Pro:
   Basic knowledge of JavaScript (ES5, ES6+)
@@ -134,5 +136,4 @@ function maskify(cc) {
 
 * English - B1
 * Russian - native
-* Ukrainian - advanced
 * Polish - A2

@@ -118,7 +118,7 @@ function maskify(cc) {
 ## Education
 
 - 2024 - JS Rolling Scopes School:
-  Front-end Developer
+  JS/FE PRE-SCHOOL
   [Certificate](https://app.rs.school/certificate/z45a92jq)
 - 2019 - HTML5 &amp; CSS3:
   Introduction to Frontend Website Development. GeekBrain

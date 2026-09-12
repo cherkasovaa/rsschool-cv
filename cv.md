@@ -111,12 +111,22 @@ function maskify(cc) {
 
 ## Courses and Education:
 
+- 2026 - Rolling Scopes School:
+  Angular developer
+  [Certificate](https://app.rs.school/certificate/oim2ivy7)
+
+- 2025 - Rolling Scopes School:
+  NodeJS developer
+  [Certificate](https://app.rs.school/certificate/nnzdbpvn)
+
+- 2025 - Rolling Scopes School:
+  React developer
+  [Certificate](https://app.rs.school/certificate/ytkptwqg)
+
 - 2023 - JS Rolling Scopes School:
   Front-end Developer\
   [Certificate](https://app.rs.school/certificate/pb1lj66a)
-- 2019 - HTML5 & CSS3:
-  Introduction to Frontend Website Development. GeekBrain\
-  [Certificate](https://gb.ru/certificates/654907.en#)
+
 - 2018 - Front-end Basic:
   HTML5 & CSS3\
   [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)

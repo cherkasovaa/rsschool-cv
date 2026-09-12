@@ -46,42 +46,19 @@ I am a frontend developer with experience in HTML5 game development and a strong
 
 ## Experience
 
-### Freelance
-
-January 2020 – today
-
-**Key Achievement:**
-
-- Delivered more than 10 commercial websites, managing the full development cycle from design concept in Figma to launch on WordPress.
-- Integrated contact forms, live chat, and analytics tools to support customer communication and website performance tracking.
-- Implemented on-page SEO and performance optimizations, including semantic HTML, meta tags, and page load improvements.
-
-Tech stack: HTML5, CSS3, JavaScript, PHP, Tailwind CSS, WordPress, Figma.
-
-### HTML5 Developer
+### HTML5 Developer.
 
 Absolutist Ltd.
-December 2018 – January 2020
+December 2018 – January 2020.
 
 **Key Achievement:**
 
-Game Porting and Mobile Adaptation
-
-- Ported 15+ Flash games to run in modern browsers.
-- Adapted games for iOS and Android by implementing virtual joystick controls, expanding the product’s target audience.
-- Identified and fixed bugs during testing, improving release stability.
-
-Technical Contributions
-
-- Developed test projects in ActionScript 3 to validate a transpilation tool.
-- Identified and documented technical issues, helping the team resolve them faster.
-
-Team Collaboration and Mentoring
-
-- Created internal documentation for game porting workflows, reducing onboarding time from 2 weeks to 3–5 days.
-- Mentored 5 new developers by conducting code reviews, explaining project architecture, and helping them solve complex technical problems.
-
-Tech stack: ActionScript 3, JavaScript (ES5)
+- Participated in testing and development of a unique transpiling tool to convert flash games into modern JavaScript, which allowed adapting classic games to run in current browsers;
+- Ported over 40 flash games to JavaScript, ensuring cross-browser compatibility and increasing audience reach;
+- Adapted games for mobile devices, expanding product availability on iOS and Android;
+- Created and maintained technical documentation, improving onboarding for new developers;
+- Conducted mentoring and training for junior engineers in the team, increasing their productivity;
+- Performed thorough product testing, reducing QA time expenditures;
 
 **Some finished projects:**
 
@@ -89,28 +66,30 @@ Tech stack: ActionScript 3, JavaScript (ES5)
 [Into Space](https://wellgames.com/ru/free_online/into-space/)\
 [Fly Squirrel Fly 2](https://wellgames.com/ru/free_online/fly-squirrel-fly-2/)\
 [Summon the hero](https://wellgames.com/ru/free_online/summon-the-hero/)\
-[Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)
+[Sugar tales](https://wellgames.com/ru/free_online/sugar-tales/)\
+[Cover Orange: Journey Pirates](https://absolutist.com/online/cover-orange-journey-pirates/)
 
 ### My projects during courses:
 
-#### SPA
-
-[MusicFlow](https://angular2026q2.github.io/musicflow/)\
-[REST Client App](https://lightweight-rest-client-app.vercel.app/ru)\
-[Decision making tool](https://cherkasovaa.github.io/decision-making-tool/)\
-[Game shop](https://cherkasovaa.github.io/e-commerce-application/)\
-[Pokédex | Pokémon Search App](https://pokedex-pokemon-search.vercel.app/ru)
-
 #### Websites:
 
-[Christmas shop](https://cherkasovaa.github.io/christmas-shop/index.html)
+[Library](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/library/)\
+[Shelter](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2022Q1/shelter/pages/main/)\
+[Photographer's portfolio](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/portfolio/)\
+[Tattos Website](https://cherkasovaa.github.io/tattoo/)
+
+#### Applications:
+
+[Image Gallery](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/image-galery/)\
+[Custom audio player](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/audio-player/)\
+[Momentum](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2021Q3/momentum/)\
+[Random jokes](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/random-jokes/)\
+[Eco sounds](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/eco-sounds)
 
 #### Games:
 
 [Memory](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL2023Q2/memory-game/)\
-[Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/tic-tac-toe/)\
-[Nonograms](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2024Q4/nonograms/)\
-[Simon Says](https://rolling-scopes-school.github.io/cherkasovaa-JSFE2024Q4/simon-says/)
+[Tic tac toe](https://rolling-scopes-school.github.io/cherkasovaa-JSFEPRESCHOOL/tic-tac-toe/)
 
 ---
 
@@ -132,22 +111,12 @@ function maskify(cc) {
 
 ## Courses and Education:
 
-- 2026 - Rolling Scopes School:
-  Angular developer
-  [Certificate](https://app.rs.school/certificate/oim2ivy7)
-
-- 2025 - Rolling Scopes School:
-  NodeJS developer
-  [Certificate](https://app.rs.school/certificate/nnzdbpvn)
-
-- 2025 - Rolling Scopes School:
-  React developer
-  [Certificate](https://app.rs.school/certificate/ytkptwqg)
-
 - 2023 - JS Rolling Scopes School:
   Front-end Developer\
   [Certificate](https://app.rs.school/certificate/pb1lj66a)
-
+- 2019 - HTML5 & CSS3:
+  Introduction to Frontend Website Development. GeekBrain\
+  [Certificate](https://gb.ru/certificates/654907.en#)
 - 2018 - Front-end Basic:
   HTML5 & CSS3\
   [Certificate](https://admin.itschool-hillel.org/certificate/HISD46309649-en.png)

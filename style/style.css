@@ -1,0 +1,252 @@
+:root {
+  --primary-font: "Rubik", sans-serif;
+  --secondary-font: "Montserrat", sans-serif;
+
+  --primary-color: #ffffff;
+  --secondary-color: #d9e7f0;
+  --tertiary-color: #0f0101;
+  --accent-color: #0623c6;
+  --muted-color: #6e757d;
+
+  --screen-width: 1200px;
+  --section-padding: 50px 25px;
+
+  --font-size-base: 16px;
+  --font-size-xl: 2rem;
+  --font-size-lg: 1.5rem;
+  --font-size-md: 1.25rem;
+  --font-size-sm: 0.875rem;
+  --font-size-xs: 0.75rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--secondary-font);
+  font-size: var(--font-size-base);
+  color: var(--tertiary-color);
+}
+
+section {
+  padding-bottom: 20px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+  background: var(--primary-color);
+}
+
+.resume {
+  display: grid;
+  grid-template:
+    "info experience" 1fr
+    "footer footer" 60px
+    / 1fr 2fr;
+
+  max-width: var(--screen-width);
+  border-radius: 6px;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+.short-description {
+  grid-area: info;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: var(--section-padding);
+}
+
+.short-description::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background-color: var(--secondary-color);
+}
+
+.professional-experience {
+  grid-area: experience;
+  background-color: var(--secondary-color);
+  padding: var(--section-padding);
+}
+
+.footer {
+  grid-area: footer;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 0 15px;
+}
+
+.avatar {
+  max-width: 200px;
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.avatar__image {
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  font-family: var(--primary-font);
+  font-size: var(--font-size-xl);
+  padding-bottom: 15px;
+  text-transform: uppercase;
+}
+
+.link {
+  color: var(--tertiary-color);
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.link:hover {
+  color: var(--accent-color);
+}
+
+.list__item {
+  padding-bottom: 7px;
+}
+
+.list__title {
+  font-family: var(--primary-font);
+  padding-bottom: 7px;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-top: 10px;
+  margin-right: 10px;
+  transition: 0.5s;
+  fill: var(--tertiary-color);
+}
+
+.icon:hover {
+  fill: var(--accent-color);
+}
+
+.info {
+  margin-bottom: 30px;
+}
+
+.info__title {
+  font-family: var(--primary-font);
+  font-size: var(--font-size-xl);
+  margin-bottom: 10px;
+}
+
+.info__position {
+  font-size: var(--font-size-lg);
+  text-transform: uppercase;
+  color: var(--muted-color);
+}
+
+.summary__text {
+  text-indent: 25px;
+}
+
+.courses-item__link.link {
+  color: var(--accent-color);
+}
+
+.courses-item__link:hover.link {
+  color: #8939f9;
+}
+
+.experience-list__position,
+.experience-list__title {
+  font-size: var(--font-size-md);
+}
+
+.experience-list__position {
+  font-family: var(--primary-font);
+  font-weight: 600;
+}
+
+.project__title,
+.courses-item__title,
+.list__title,
+.achievements__title,
+.work-projects__title,
+.experience-list__title,
+.experience-list__position,
+.experience-list__duration,
+.experience-list__company {
+  font-family: var(--primary-font);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+}
+
+.project__title {
+  font-size: var(--font-size-base);
+}
+
+.project__title,
+.courses-item__title,
+.list__title,
+.achievements__title,
+.experience-list__title,
+.work-projects__title {
+  margin-bottom: 10px;
+}
+
+.project__title {
+  font-weight: 400;
+}
+
+.experience-list__item--no-flex {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.experience-list__item {
+  padding-bottom: 20px;
+}
+
+.achievements,
+.work-projects {
+  padding-top: 20px;
+}
+
+.achievements__item:not(:first-child),
+.work-projects__item:not(:first-child) {
+  position: relative;
+  padding-left: 20px;
+}
+
+.achievements__item:not(:first-child)::before,
+.work-projects__item:not(:first-child)::before {
+  content: "-";
+  position: absolute;
+  left: 0;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: end;
+  gap: 10px;
+}
